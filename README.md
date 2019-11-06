@@ -1,3 +1,5 @@
-## Welcome to my page.
+## Welcome to my Portfolio!
 
-Work in progress, I can be emailed in the meantime at <a href="mailto:abelrobertgarcia@outlook.com">abelrobertgarcia@outlook.com</a>
+Currently Visitable <a href="https://garushia.github.io">here</a>
+
+If you have issues viewing, please feel to email me at: <a href="mailto:abelrobertgarcia@outlook.com">abelrobertgarcia@outlook.com</a>
